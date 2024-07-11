@@ -6,7 +6,7 @@ spring:
 build:
   version: "1.0"
 accounts:
-  message: "Welcome to EazyBank accounts related production APIs "
+  message: "Welcome to EazyBank accounts related prod APIs "
   contactDetails:
     name: "Reine Aishwara - Product Owner"
     email: "aishwara@eazybank.com"
