@@ -19,7 +19,7 @@ spring:
     show-sql: true
   config:
     import:
-      - "application_qa.yml"
+      - "cards-qa.yml"
       - "cards-prod.yml"
   profiles:
     active:
