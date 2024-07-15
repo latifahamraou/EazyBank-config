@@ -5,9 +5,9 @@ spring:
   application:
     name: accounts
   datasource:
-    url: jdbc:mysql://localhost:3307/accountsdb
-    username: root
-    password: root
+    #url: jdbc:mysql://localhost:3307/accountsdb
+    #username: root
+    #password: root
 
   jpa:
     show-sql: true
